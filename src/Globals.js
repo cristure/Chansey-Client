@@ -1,0 +1,20 @@
+export default {
+    BASE_URL: 'http://192.168.1.2:5000',
+    REGISTER: '/register',
+    USER: '/user',
+    USERS: '/users',
+    AUTH: '/auth',
+    POST: '/post',
+    POSTS: '/posts',
+    COMMENT: '/comment',
+    COMMENTS: '/comments',
+    SYMPTOM: '/symptom',
+    DIAGNOSIS: '/diagnosis',
+    ISSUE: '/issue',
+    SPECIALIST: '/specialist',
+    SPECIALISTS: '/specialists',
+    CONSULTATION: '/consultation',
+    POSTCONSULTATION : '/postConsultation',
+    MEDIC: '/medic',
+    MEDICCONSULTATION: '/medicConsultation'
+  };
