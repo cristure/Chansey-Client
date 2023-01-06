@@ -1,5 +1,5 @@
 export default {
-    BASE_URL: 'http://192.168.1.2:5000',
+    BASE_URL: '<some_url>',
     REGISTER: '/register',
     USER: '/user',
     USERS: '/users',
